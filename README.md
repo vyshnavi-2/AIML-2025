@@ -1,2 +1,7 @@
 # AIML-2025
-[lab01](https://github.com/vyshnavi-2/AIML-2025/blob/main/Lab1.ipynb):Introduction to Python Packages - Numpy, Pandas, Matplotlib, and Access to Data Sources
+### Artificial Intelligence and Machine Learning Projects and Lab Instruction Sheets
+1. [Lab 01](https://github.com/kirankumareranki/AIML-2025/blob/main/AIML_A1.pdf): Introduction to Python Packages - Numpy, Pandas, Matplotlib, and Access to Data Sources
+
+
+## Lab Code Notebooks
+1. [Lab 01]()
