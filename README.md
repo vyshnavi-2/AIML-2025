@@ -20,3 +20,4 @@
 5. [Lab 05](https://github.com/vyshnavi-2/AIML-2025/blob/main/Lab05_AIML.ipynb)
 6. [Lab 06](https://github.com/vyshnavi-2/AIML-2025/blob/main/Lab06_AIML.ipynb)
 7. [Lab 07](https://github.com/vyshnavi-2/AIML-2025/blob/main/Lab07_SVM.ipynb)
+8. [Lab 08](https://github.com/vyshnavi-2/AIML-2025/blob/main/Lab08_AIML.ipynb)
