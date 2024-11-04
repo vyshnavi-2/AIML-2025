@@ -22,3 +22,4 @@
 7. [Lab 07](https://github.com/vyshnavi-2/AIML-2025/blob/main/Lab07_SVM.ipynb)
 8. [Lab 08](https://github.com/vyshnavi-2/AIML-2025/blob/main/Lab08_AIML.ipynb)
 9. [Lab 09](https://github.com/vyshnavi-2/AIML-2025/blob/main/Lab09_AIML.ipynb)
+10.[Lab 10](https://github.com/vyshnavi-2/AIML-2025/blob/main/Lab_10_.ipynb)
